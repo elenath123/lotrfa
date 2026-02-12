@@ -1,0 +1,25 @@
+{
+  "itemGroup.lotrfa": "第一纪元物品",
+  "itemGroup.lotrfa_legendary": "第一纪元传奇物品",
+
+  "item.lotrfa.silmaril_varda": "瓦尔妲之星",
+  "item.lotrfa.silmaril.varda.desc": "众星女王的宝石，镶于她的王冠之上",
+
+  "item.lotrfa.silmaril_earendil": "埃雅仁迪尔之星",
+  "item.lotrfa.silmaril.earendil.desc": "航海者之星，西方天空最亮的星辰",
+
+  "item.lotrfa.silmaril_maedhros": "迈兹洛斯之星",
+  "item.lotrfa.silmaril.maedhros.desc": "失落的宝钻，被大地吞噬",
+
+  "item.lotrfa.silmaril.property.eternal_light": "✦ 双圣树的永恒之光",
+  "item.lotrfa.silmaril.property.holy": "✦ 神圣不可亵渎",
+  "item.lotrfa.silmaril.property.indestructible": "✦ 永不毁灭",
+
+  "item.lotrfa.silmaril.warning": "「不洁者不可触碰这神圣的宝石」",
+
+  "item.lotrfa.silmaril.burns": "精灵宝钻灼烧着你邪恶的肉体！",
+  "item.lotrfa.silmaril.property.burns_evil": "精灵宝钻的神圣之光灼烧着邪恶的肉体！",
+  "item.lotrfa.silmaril.cannot_drop": "精灵宝钻无法被如此轻易丢弃...",
+  "death.attack.silmaril_holy_light": "精灵宝钻驱散了你邪恶的灵魂！"
+
+}

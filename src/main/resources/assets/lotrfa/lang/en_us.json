@@ -1,0 +1,24 @@
+{
+  "itemGroup.lotrfa": "First Age Items",
+  "itemGroup.lotrfa_legendary": "First Age Legendary Items",
+
+  "item.lotrfa.silmaril_varda": "Silmaril of Varda",
+  "item.lotrfa.silmaril.varda.desc": "The Star of the Queen of the Stars, set in her crown",
+
+  "item.lotrfa.silmaril_earendil": "Silmaril of Eärendil",
+  "item.lotrfa.silmaril.earendil.desc": "The Star of the Mariner, brightest in the western sky",
+
+  "item.lotrfa.silmaril_maedhros": "Silmaril of Maedhros",
+  "item.lotrfa.silmaril.maedhros.desc": "The Lost Jewel, swallowed by the earth",
+
+  "item.lotrfa.silmaril.property.eternal_light": "✦ Eternal Light of the Two Trees",
+  "item.lotrfa.silmaril.property.holy": "✦ Holy and Inviolate",
+  "item.lotrfa.silmaril.property.indestructible": "✦ Indestructible",
+
+  "item.lotrfa.silmaril.warning": "\"None shall touch the hallowed jewels who are not hallowed themselves\"",
+
+  "item.lotrfa.silmaril.burns": "The Silmaril burns your evil flesh!",
+  "item.lotrfa.silmaril.property.burns_evil": "The holy light of the Silmaril will sears evil flesh!",
+  "item.lotrfa.silmaril.cannot_drop": "The Silmaril cannot be discarded so easily...",
+  "death.attack.silmaril_holy_light": "The Silmaril destory your evil flesh!"
+}

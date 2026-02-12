@@ -1,0 +1,12 @@
+
+[admin]
+	#Force hide or show all players' map locations. 0 = per-player (default), 1 = force hide, 2 = force show
+	#Range: 0 ~ 2
+	forceMapLocations = 0
+	#Force enable or disable the map exploration fog for all players. 0 = set by players in their own configs (default), 1 = force fog, 2 = force no fog
+	#Range: 0 ~ 2
+	forceFogOfWar = 0
+	#Tick interval between clearing offline LOTR-playerdata from the cache. Offline players' data is typically loaded to serve features like fellowships and their shared custom waypoints. Higher values may reduce server lag, as data will have to be reloaded from disk less often, but will result in higher RAM usage to some extent
+	#Range: 600 ~ 72000
+	playerDataClearingInterval = 1200
+

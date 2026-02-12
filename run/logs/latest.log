@@ -1,0 +1,1048 @@
+[12二月2026 17:12:59.987] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mixin.config, lotrfa.mixins.json, --gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.42, --assetIndex, 1.16, --assetsDir, C:\Users\ASUS\.gradle\caches\forge_gradle\assets, --version, MOD_DEV, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[12二月2026 17:12:59.998] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_461 by Oracle Corporation
+[12二月2026 17:13:00.415] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[12二月2026 17:13:00.446] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/ASUS/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.4/4ec7d77d9ab32596ca0b78bb123956734767e3a/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[12二月2026 17:13:02.064] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\ASUS\.gradle\caches\forge_gradle\assets, --assetIndex, 1.16, --username, Dev, --accessToken, ❄❄❄❄❄❄❄❄, --userProperties, {}]
+[12二月2026 17:13:02.124] [main/WARN] [mixin/]: Reference map 'lotrfa.refmap.json' for lotrfa.mixins.json could not be read. If this is a development environment you can ignore this message
+[12二月2026 17:13:06.297] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12二月2026 17:13:07.258] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[12二月2026 17:13:07.328] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[12二月2026 17:13:07.781] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]: ═══════════════════════════════════════
+[12二月2026 17:13:07.782] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]:   LOTR: First Age - 第一纪元
+[12二月2026 17:13:07.782] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]:   By Elenath123
+[12二月2026 17:13:07.782] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]: ═══════════════════════════════════════
+[12二月2026 17:13:07.784] [modloading-worker-11/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[12二月2026 17:13:07.785] [modloading-worker-11/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[12二月2026 17:13:07.788] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]: Registering First Age registries...
+[12二月2026 17:13:07.797] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]: All registries registered successfully!
+[12二月2026 17:13:07.801] [modloading-worker-4/INFO] [lotrfa.common.LOTRFAMod/]: First Age items initialized - 3 items registered
+[12二月2026 17:13:07.856] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option environment, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.857] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option environment, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.857] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option environment, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.857] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option environment, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.857] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option gui, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.857] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option gui, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.858] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option sound, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.858] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option sound, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.858] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option sound, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:07.859] [modloading-worker-18/ERROR] [net.minecraftforge.common.ForgeConfigSpec.Builder/CORE]: Null comment for config option gameplay, this is invalid and may be disallowed in the future.
+[12二月2026 17:13:08.273] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.273] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.273] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.273] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.273] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.273] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.274] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.274] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.274] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.274] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:08.275] [modloading-worker-18/ERROR] [lotr.common.LOTRLog/]: lotr: No data fixer registered for block entity {}
+[12二月2026 17:13:10.149] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Auto-registered 40 sign blocks
+[12二月2026 17:13:10.991] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[12二月2026 17:13:11.096] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[12二月2026 17:13:11.118] [Worker-Main-10/INFO] [lotrfa.common.LOTRFAMod/]: Common setup complete - 通用设置完成
+[12二月2026 17:13:11.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12二月2026 17:13:11.614] [Worker-Main-12/INFO] [lotrfa.common.LOTRFAMod/]: Client setup complete - 客户端设置完成
+[12二月2026 17:13:12.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[12二月2026 17:13:13.063] [Worker-Main-14/INFO] [lotr.common.LOTRLog/]: lotr: Automatically detected and registered 39 special handheld items!
+[12二月2026 17:13:23.948] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[12二月2026 17:13:23.949] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[12二月2026 17:13:24.076] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[12二月2026 17:13:24.085] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[12二月2026 17:13:24.091] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12二月2026 17:13:24.091] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12二月2026 17:13:24.092] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12二月2026 17:13:24.092] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12二月2026 17:13:24.092] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12二月2026 17:13:25.512] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[12二月2026 17:13:25.513] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12二月2026 17:13:25.514] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12二月2026 17:13:26.377] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded default map settings - image lotr:map/middle_earth.png, 124 biome-color mappings (combined from 1 files), 59 waypoint regions encompassing 113 biomes, 198 waypoints, 57 roads, 91 labels
+[12二月2026 17:13:26.477] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Successfully replaced GameRenderer instance with subclass instance
+[12二月2026 17:13:26.493] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Successfully replaced WorldRenderer instance with subclass instance
+[12二月2026 17:13:27.302] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: DONT_CRASH
+[12二月2026 17:13:30.195] [Render thread/INFO] [net.minecraft.world.storage.SaveFormat/]: Attempt 1...
+[12二月2026 17:13:33.993] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12二月2026 17:13:33.993] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12二月2026 17:13:33.994] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12二月2026 17:13:33.994] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12二月2026 17:13:33.995] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12二月2026 17:13:34.000] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, the-lord-of-the-rings-mod-renewed-406893-3661524_mapped_official_1.16.5.jar, main, forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar
+[12二月2026 17:13:35.302] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 43 recipes
+[12二月2026 17:13:35.983] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[12二月2026 17:13:35.988] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Excluded 0 resources in folder 'map/waypoints/' based on the _settings.json
+[12二月2026 17:13:35.988] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Excluded 0 resources in folder 'map/roads/' based on the _settings.json
+[12二月2026 17:13:35.988] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Excluded 0 resources in folder 'map/labels/' based on the _settings.json
+[12二月2026 17:13:38.193] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded serverside map settings - image lotr:map/middle_earth.png, 124 biome-color mappings (combined from 1 files), 59 waypoint regions encompassing 113 biomes, 198 waypoints, 57 roads, 91 labels
+[12二月2026 17:13:38.193] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Excluded 0 resources in folder 'factions/regions/' based on the _settings.json
+[12二月2026 17:13:38.194] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Excluded 0 resources in folder 'factions' based on the _settings.json
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:near_harad area of influence references waypoint lotr:izem_ulzuz - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:near_harad area of influence references waypoint lotr:khopakadar - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:rhudel area of influence references waypoint lotr:rhunost - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:half_trolls area of influence references waypoint lotr:tol_torog - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:half_trolls area of influence references waypoint lotr:sereghir - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:half_trolls area of influence references waypoint lotr:hardorogost - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:half_trolls area of influence references waypoint lotr:bridge_of_haraduin - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:taurethrim area of influence references waypoint lotr:nohoch_kah - but no such waypoint exists
+[12二月2026 17:13:38.200] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:taurethrim area of influence references waypoint lotr:kimen_kah - but no such waypoint exists
+[12二月2026 17:13:38.201] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:morwaith area of influence references waypoint lotr:deep_harad - but no such waypoint exists
+[12二月2026 17:13:38.201] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:morwaith area of influence references waypoint lotr:upper_floodplains - but no such waypoint exists
+[12二月2026 17:13:38.201] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:morwaith area of influence references waypoint lotr:hill_of_the_sun - but no such waypoint exists
+[12二月2026 17:13:38.201] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Faction lotr:morwaith area of influence references waypoint lotr:hunters_haunt - but no such waypoint exists
+[12二月2026 17:13:38.204] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded serverside faction settings - 27 factions in 3 regions, with 160 relations (combined from 1 relations lists)
+[12二月2026 17:13:38.204] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded serverside NPC entity settings - 50 entity type settings
+[12二月2026 17:13:38.208] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded serverside NPC spawn settings - 38 spawn lists, 71 biome spawn tables
+[12二月2026 17:13:39.494] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12二月2026 17:13:39.508] [Render thread/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod lotr-transformer-respawning.js function PlayerList#func_232644_a_#getCheckedBedRespawnPosition
+jdk.nashorn.internal.runtime.ECMAException: TypeError: null has no such function "getNext"
+	at jdk.nashorn.internal.runtime.ECMAErrors.error(ECMAErrors.java:57) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ECMAErrors.typeError(ECMAErrors.java:213) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ECMAErrors.typeError(ECMAErrors.java:185) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ECMAErrors.typeError(ECMAErrors.java:172) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.linker.NashornBottomLinker.linkNull(NashornBottomLinker.java:180) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.linker.NashornBottomLinker.getGuardedInvocation(NashornBottomLinker.java:66) ~[nashorn.jar:?]
+	at jdk.internal.dynalink.support.CompositeGuardingDynamicLinker.getGuardedInvocation(CompositeGuardingDynamicLinker.java:124) ~[nashorn.jar:?]
+	at jdk.internal.dynalink.support.LinkerServicesImpl.getGuardedInvocation(LinkerServicesImpl.java:154) ~[nashorn.jar:?]
+	at jdk.internal.dynalink.DynamicLinker.relink(DynamicLinker.java:253) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.scripts.Script$Recompilation$39$1595A$\^eval\_.initializeCoreMod#transformer(<eval>:43) ~[?:?]
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:639) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:494) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:393) ~[nashorn.jar:?]
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.call(ScriptObjectMirror.java:117) ~[nashorn.jar:?]
+	at net.minecraftforge.coremod.NashornFactory.lambda$getFunction$0(NashornFactory.java:18) ~[coremods-4.0.6.jar:4.0.6+14+master.c21a551]
+	at net.minecraftforge.coremod.transformer.CoreModMethodTransformer.runCoremod(CoreModMethodTransformer.java:18) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModMethodTransformer.runCoremod(CoreModMethodTransformer.java:10) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModBaseTransformer.transform(CoreModBaseTransformer.java:38) ~[coremods-4.0.6.jar:?]
+	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:111) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_461]
+	at net.minecraft.client.Minecraft.lambda$loadWorld$27(Minecraft.java:1752) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.spin(MinecraftServer.java:237) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.loadWorld(Minecraft.java:1751) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.createLevel(Minecraft.java:1687) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.CreateWorldScreen.onCreate(CreateWorldScreen.java:260) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.CreateWorldScreen.lambda$init$11(CreateWorldScreen.java:205) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.button.Button.onPress(Button.java:26) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.button.AbstractButton.onClick(AbstractButton.java:18) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.Widget.mouseClicked(Widget.java:136) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:28) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$onPress$0(MouseHelper.java:87) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:427) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.onPress(MouseHelper.java:85) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$null$4(MouseHelper.java:181) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:86) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$setup$5(MouseHelper.java:180) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:112) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1000) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:607) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:184) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_461]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_461]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_461]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_461]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94) [forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+[12二月2026 17:13:39.520] [Render thread/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod lotr-transformer-respawning.js function PlayerList#func_232644_a_#getDefaultRespawnWorld
+java.lang.NullPointerException: null
+	at org.objectweb.asm.tree.InsnList.insert(InsnList.java:343) ~[asm-tree-9.6.jar:9.6]
+	at jdk.nashorn.internal.scripts.Script$Recompilation$40$3116A$\^eval\_.initializeCoreMod#transformer-1(<eval>:74) ~[?:?]
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:639) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:494) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:393) ~[nashorn.jar:?]
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.call(ScriptObjectMirror.java:117) ~[nashorn.jar:?]
+	at net.minecraftforge.coremod.NashornFactory.lambda$getFunction$0(NashornFactory.java:18) ~[coremods-4.0.6.jar:4.0.6+14+master.c21a551]
+	at net.minecraftforge.coremod.transformer.CoreModMethodTransformer.runCoremod(CoreModMethodTransformer.java:18) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModMethodTransformer.runCoremod(CoreModMethodTransformer.java:10) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModBaseTransformer.transform(CoreModBaseTransformer.java:38) ~[coremods-4.0.6.jar:?]
+	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:111) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_461]
+	at net.minecraft.client.Minecraft.lambda$loadWorld$27(Minecraft.java:1752) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.spin(MinecraftServer.java:237) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.loadWorld(Minecraft.java:1751) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.createLevel(Minecraft.java:1687) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.CreateWorldScreen.onCreate(CreateWorldScreen.java:260) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.CreateWorldScreen.lambda$init$11(CreateWorldScreen.java:205) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.button.Button.onPress(Button.java:26) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.button.AbstractButton.onClick(AbstractButton.java:18) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.Widget.mouseClicked(Widget.java:136) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:28) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$onPress$0(MouseHelper.java:87) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:427) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.onPress(MouseHelper.java:85) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$null$4(MouseHelper.java:181) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:86) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$setup$5(MouseHelper.java:180) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:112) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1000) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:607) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:184) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_461]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_461]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_461]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_461]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94) [forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+[12二月2026 17:13:39.523] [Render thread/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod lotr-transformer-respawning.js function PlayerList#func_232644_a_#relocatePlayerIfNeeded
+java.lang.ArrayIndexOutOfBoundsException: 484
+	at org.objectweb.asm.tree.InsnList.get(InsnList.java:99) ~[asm-tree-9.6.jar:9.6]
+	at net.minecraftforge.coremod.api.ASMAPI.findFirstMethodCallAfter(ASMAPI.java:142) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.api.ASMAPI.findFirstMethodCall(ASMAPI.java:125) ~[coremods-4.0.6.jar:?]
+	at jdk.nashorn.internal.scripts.Script$Recompilation$41$4212A$\^eval\_.initializeCoreMod#transformer-2(<eval>:89) ~[?:?]
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:639) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:494) ~[nashorn.jar:?]
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:393) ~[nashorn.jar:?]
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.call(ScriptObjectMirror.java:117) ~[nashorn.jar:?]
+	at net.minecraftforge.coremod.NashornFactory.lambda$getFunction$0(NashornFactory.java:18) ~[coremods-4.0.6.jar:4.0.6+14+master.c21a551]
+	at net.minecraftforge.coremod.transformer.CoreModMethodTransformer.runCoremod(CoreModMethodTransformer.java:18) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModMethodTransformer.runCoremod(CoreModMethodTransformer.java:10) ~[coremods-4.0.6.jar:?]
+	at net.minecraftforge.coremod.transformer.CoreModBaseTransformer.transform(CoreModBaseTransformer.java:38) ~[coremods-4.0.6.jar:?]
+	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:111) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_461]
+	at net.minecraft.client.Minecraft.lambda$loadWorld$27(Minecraft.java:1752) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.server.MinecraftServer.spin(MinecraftServer.java:237) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.loadWorld(Minecraft.java:1751) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.createLevel(Minecraft.java:1687) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.CreateWorldScreen.onCreate(CreateWorldScreen.java:260) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.CreateWorldScreen.lambda$init$11(CreateWorldScreen.java:205) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.button.Button.onPress(Button.java:26) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.button.AbstractButton.onClick(AbstractButton.java:18) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.widget.Widget.mouseClicked(Widget.java:136) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:28) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$onPress$0(MouseHelper.java:87) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:427) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.onPress(MouseHelper.java:85) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$null$4(MouseHelper.java:181) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:86) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.MouseHelper.lambda$setup$5(MouseHelper.java:180) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) ~[lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:112) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1000) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:607) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:184) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_461]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_461]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_461]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_461]
+	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38) ~[forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94) [forge-1.16.5-36.2.42_mapped_official_1.16.5-recomp.jar:?]
+[12二月2026 17:13:39.549] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.16.5
+[12二月2026 17:13:39.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12二月2026 17:13:39.602] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\saves\新的世界\serverconfig\forge-server.toml is not correct. Correcting
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[12二月2026 17:13:39.603] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[12二月2026 17:13:39.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\saves\新的世界\serverconfig\lotr-server.toml is not correct. Correcting
+[12二月2026 17:13:39.606] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admin was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12二月2026 17:13:39.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admin.forceMapLocations was corrected from null to its default, 0. 
+[12二月2026 17:13:39.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admin.forceFogOfWar was corrected from null to its default, 0. 
+[12二月2026 17:13:39.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admin.playerDataClearingInterval was corrected from null to its default, 1200. 
+[12二月2026 17:13:41.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12二月2026 17:13:41.368] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：0%
+[12二月2026 17:13:41.840] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：3%
+[12二月2026 17:13:42.341] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：10%
+[12二月2026 17:13:42.846] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：22%
+[12二月2026 17:13:43.330] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：32%
+[12二月2026 17:13:43.835] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：41%
+[12二月2026 17:13:44.330] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：50%
+[12二月2026 17:13:44.841] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：58%
+[12二月2026 17:13:45.347] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：71%
+[12二月2026 17:13:45.841] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：81%
+[12二月2026 17:13:46.379] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: 准备生成区域中：87%
+[12二月2026 17:13:46.756] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5432 ms
+[12二月2026 17:13:46.876] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 11, from 10
+[12二月2026 17:13:48.256] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[12二月2026 17:13:48.276] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3bf5a537
+[12二月2026 17:13:48.283] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:712710eb] logged in with entity id 260 at (-239.5, 70.0, -249.5)
+[12二月2026 17:13:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev加入了游戏
+[12二月2026 17:13:48.785] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_brick_stairs
+[12二月2026 17:13:48.786] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_brick_stairs
+[12二月2026 17:13:48.786] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_helmet
+[12二月2026 17:13:48.786] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_mountains_crafting_table
+[12二月2026 17:13:48.786] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_dorwinion_brick
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_boots
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_chestplate
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:blue_mallorn_torch
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_shovel
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_shovel
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_brick_wall
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_gate
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_beam_slab
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:arnor_brick
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_shield
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_axe
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_boots
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_pillar
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:mossy_umbar_brick
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:mossy_numenorean_brick_wall
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:cracked_gondor_cobblebrick_wall
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:stripped_mallorn_wood_stairs
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt5
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_bars
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:cracked_galadhrim_brick_wall
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_ladder
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_planks_from_mallorn_wood_slab
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:cracked_angmar_brick_stairs
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_rock_button
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt9
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:cracked_high_elven_brick_stairs
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge_alloy/lotr:uruk_steel_ingot
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_pillar
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_sword
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_dagger
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_hoe
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_brick_slab
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:cracked_high_elven_brick_wall
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_planks_from_mallorn_wood_stairs
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_shovel
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:orc_forge_mordor
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:mossy_dwarven_brick_stairs
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_cobblebrick_wall
+[12二月2026 17:13:48.787] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:mithril_trimmed_dwarven_boots
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_boots
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_sword
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:mithril_trimmed_dwarven_leggings
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:numenorean_pillar
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_crafting_table
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:mossy_numenorean_brick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_brick_stairs
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:cracked_dorwinion_brick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:blubber_torch
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:carved_dwarven_brick
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_axe
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_dagger
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_pickaxe
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_pillar
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_shovel
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_pillar
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_cobblebrick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:snowy_angmar_brick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_pickaxe
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:rum
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:smooth_rohan_rock_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:lossoth_crafting_table
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_brick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_boots
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:mossy_wood_elven_brick_wall
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:carved_dale_brick
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:cracked_galadhrim_brick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:coast_southron_shield
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_hobbit/lotr:hobbit_oven
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:gold_trimmed_blue_dwarven_helmet
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_brick_stairs
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_basalt_brick_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_slab
+[12二月2026 17:13:48.788] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_spear
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:leather_from_leather_bundle
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_elven_helmet
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_basalt_brick
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:mossy_angmar_brick
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:elven_forge_wood_elven
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_hoe
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_dorwinion_brick_slab
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_brick_stairs
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_crafting_table
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_leggings
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_trapdoor
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:silver_trimmed_blue_dwarven_leggings
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_rock_wall
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:smooth_gondor_rock_slab
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_leggings
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_bars
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_pillar
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_brick_slab
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:mossy_arnor_brick_slab
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_helmet
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_crafting_table
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:shire_pine_trapdoor
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_dagger
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_dagger
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:mossy_dwarven_brick_wall
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:cracked_gondor_cobblebrick_stairs
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:ranger_ithilien_chestplate
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:silver_trimmed_dwarven_leggings
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_pillar_slab
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_axe
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_plating_stairs
+[12二月2026 17:13:48.789] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_sign
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_berserker_cleaver
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_paving_stairs
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:arnor_pillar_slab
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mossy_mordor_brick_wall
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_brick
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:cracked_angmar_brick_slab
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:mithril_trimmed_dwarven_chestplate
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge/lotr:rotten_flesh_orc_forge
+[12二月2026 17:13:48.790] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:numenorean_brick_wall
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_wood_stairs
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:gold_trimmed_dwarven_boots
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_helmet
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt6
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:silver_trimmed_dwarven_boots
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:cracked_rohan_brick_stairs
+[12二月2026 17:13:48.791] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge_alloy/lotr:blue_vitriol_orc_forge
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_helmet
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_brick_stairs
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_paving
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_pillar
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:carved_rohan_brick
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:numenorean_brick
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:dwarven_ale
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_cobblebrick_slab
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_pillar_slab
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harnennor_leggings
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_pickaxe
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:winged_gondor_helmet
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_dagger
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_helmet
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_pillar
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_leggings
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:ranger_north_boots
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:red_dorwinion_brick_stairs
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:mossy_numenorean_brick
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_branch
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_bars
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_torch
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:mossy_angmar_brick_slab
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:carved_angmar_brick
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_rock_wall
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:smooth_mordor_rock_slab
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_brick_wall
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_brick
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_cobblebrick
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_door
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_boots
+[12二月2026 17:13:48.792] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_rock_stairs
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_brick_stairs
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:cracked_umbar_brick_slab
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_brick_slab
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:ranger_ithilien_boots
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_shield
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:cracked_umbar_brick_stairs
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_brick
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:cracked_dwarven_brick_wall
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:ale
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_chestplate
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:arnor_brick_slab
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:green_mallorn_torch
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_scimitar
+[12二月2026 17:13:48.793] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_dorwinion_brick_wall
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:mossy_dol_amroth_brick_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_sword
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_spear
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_brick_wall
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:silver_trimmed_blue_dwarven_chestplate
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven_forge/lotr:mithril_ingot
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_berserker_helmet
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_paving_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:gold_mallorn_torch
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt4
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_pillar_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:snowy_dwarven_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_shield
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_dagger
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_planks_from_mallorn_log_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:orc_forge_uruk
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_dorwinion_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_boots
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_bars
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:elven_forge_high_elven
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_spear
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:mossy_rohan_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_shovel
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_brick
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:ice_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_spear
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_leggings
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_crafting_table
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:carrot_wine
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:cracked_angmar_brick_wall
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_marshal_chestplate
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_pillar
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:cracked_red_dorwinion_brick_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:red_dorwinion_brick
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:numenorean_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_red_dorwinion_brick_stairs
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_spear
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_boots
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:mossy_wood_elven_brick_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:carved_wood_elven_brick
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_sword
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:cracked_numenorean_brick_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:red_dorwinion_brick_slab
+[12二月2026 17:13:48.794] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:cracked_arnor_brick_slab
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_brick_stairs
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_crafting_table
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_brick_stairs
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_cobblebrick_wall
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:yellow_hobbit_gate
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_rock_pressure_plate
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_gate
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:cracked_dwarven_brick_slab
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:mithril_trimmed_dwarven_brick
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_brick_wall
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:dwarven_tonic
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:carved_arnor_brick
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_boots
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:arnor_pillar
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_helmet
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:gold_trimmed_blue_dwarven_chestplate
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_pillar_slab
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_brick_wall
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_chestplate
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:numenorean_pillar_slab
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:silver_mallorn_torch
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_hoe
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_cobblebrick_stairs
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:snowy_angmar_brick_stairs
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_marshal_leggings
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_fence
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_brick_slab
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_brick
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_brick_wall
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dunlending/lotr:dunlending_boots
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge/lotr:charred_wood_orc_forge
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:miruvor
+[12二月2026 17:13:48.795] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_red_dorwinion_brick
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_beam
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_brick_wall
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_rock_slab
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:red_harad_brick_wall
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:red_dorwinion_brick_wall
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_brick
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:fish_and_chips
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:mossy_arnor_brick_wall
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_rock_stairs
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_brick_stairs
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:cracked_dol_amroth_brick_wall
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:red_hobbit_gate
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_brick_slab
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_crafting_table
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_chestplate
+[12二月2026 17:13:48.796] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:mossy_dwarven_brick_slab
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_crafting_table
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_gate
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_button
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_shield
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:snow_brick
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:gold_trimmed_blue_dwarven_leggings
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_brick_stairs
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:mossy_angmar_brick_wall
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:mossy_arnor_brick_stairs
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_gate
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:cracked_red_dorwinion_brick_wall
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_brick_stairs
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:mossy_high_elven_brick_wall
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:cracked_dwarven_brick_stairs
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:rusted_orc_plating_slab
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_hoe
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:mossy_rohan_brick_slab
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_brick
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_dagger
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dunlending/lotr:dunlending_crafting_table
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_boat
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_shield
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:ice_brick
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:bree/lotr:bree_crafting_table
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:cracked_mordor_brick_stairs
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_stairs
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_pickaxe
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_wood
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:cracked_wood_elven_brick_slab
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_leggings
+[12二月2026 17:13:48.797] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_sword
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_elven_sword
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_forge
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:numenorean_brick_slab
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_crafting_table
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:cherry_liqueur
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:cracked_dorwinion_brick_wall
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_beacon
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_chestplate
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:snowy_dwarven_brick_wall
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge/lotr:stripped_charred_wood_orc_forge
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_axe
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_sword
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_brick_slab
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_brick_wall
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:cracked_red_dorwinion_brick_stairs
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:cracked_dale_brick_stairs
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:silver_trimmed_blue_dwarven_boots
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven_forge_alloy/lotr:blue_vitriol_dwarven_forge
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt11
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:cracked_dol_amroth_brick_stairs
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:cracked_gondor_brick_stairs
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_pillar
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_brick_slab
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_brick
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_pillar_slab
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:cracked_rohan_brick_wall
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:hobbit_crafting_table
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:cracked_dol_amroth_brick_slab
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:arnor_brick_stairs
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_hoe
+[12二月2026 17:13:48.798] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_sword
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:cracked_rohan_brick_slab
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_bars
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_brick_wall
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:cracked_gondor_cobblebrick_slab
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_spear
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:mead
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_boots
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:ice_brick_wall
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:snow_brick_stairs
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_spear
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:cracked_high_elven_brick_slab
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:mossy_angmar_brick_stairs
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_slab
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_brick_slab
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_torch
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:elven_forge_galadhrim
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_dagger
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:carved_numenorean_brick
+[12二月2026 17:13:48.799] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:carved_high_elven_brick
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:mossy_high_elven_brick_slab
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:cracked_numenorean_brick_wall
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:mossy_high_elven_brick
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_pillar_slab
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_marshal_helmet
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge/lotr:orc_steel_ingot
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:silver_trimmed_dwarven_chestplate
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_brick
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge/lotr:stripped_charred_log_orc_forge
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_crafting_table
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_dagger
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:maggoty_bread
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:stripped_mallorn_wood_slab
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:fur_bundle
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:stripped_mallorn_log_slab
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_basalt_brick_stairs
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt7
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_spear
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_log_slab
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_basalt_brick_wall
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:cracked_gondor_brick_slab
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:maple_beer
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit_oven_alloy/lotr:gammon_hobbit_oven
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:snowy_dwarven_brick
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_helmet
+[12二月2026 17:13:48.800] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:gold_trimmed_dwarven_brick
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_axe
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_boots
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_spear
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_leggings
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_brick_wall
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:mossy_umbar_brick_stairs
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:morgul_draught
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_spear
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_wood_bars
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:blue_hobbit_gate
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_boots
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_spear
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_helmet
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_brick_stairs
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_warlord_helmet
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_helmet
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_chestplate
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:carved_mordor_basalt_brick
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_red_dorwinion_brick_wall
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_crafting_table
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:carved_galadhrim_brick
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:ice_brick_slab
+[12二月2026 17:13:48.801] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dunlending/lotr:dunlending_club
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_dagger
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_chestplate
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_wood_bars
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:mossy_wood_elven_brick
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_boots
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_brick
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:cracked_mordor_brick_slab
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_brick_slab
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mossy_mordor_brick_stairs
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_brick_slab
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_brick_wall
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:cracked_arnor_brick_stairs
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:orc_draught
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:soured_milk
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:stripped_mallorn_wood
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_elven_boots
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_dagger
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_torch_with_durnor
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_hoe
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:red_harad_pillar
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:ranger_north_helmet
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_crafting_table
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:snowy_dwarven_brick_slab
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_sword
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_chestplate
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_elven_dagger
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:cider
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:cracked_wood_elven_brick_wall
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:cracked_mordor_brick_wall
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:mossy_dol_amroth_brick
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mossy_mordor_brick
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_sword
+[12二月2026 17:13:48.803] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_fence_gate
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mossy_galadhrim_brick_slab
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_pillar
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:gold_trimmed_dwarven_leggings
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:snowy_angmar_brick
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt2
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_gate
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:rusted_orc_plating_stairs
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_pillar
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_rock_pressure_plate
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_dagger
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_axe
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_sword
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_bars
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:snow_brick_wall
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_cobblebrick_stairs
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:fur_from_fur_bundle
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:mossy_dol_amroth_brick_wall
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_helmet
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:cracked_dorwinion_brick_stairs
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_stairs
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:arnor_brick_wall
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_brick_slab
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_chestplate
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:red_harad_brick_slab
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:glowing_dwarven_brick
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_pillar_slab
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_shovel
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dunlending/lotr:dunlending_helmet
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_stick
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_crafting_table
+[12二月2026 17:13:48.804] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:ranger_north_chestplate
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_rock_pressure_plate
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:vodka
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_hoe
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:cracked_umbar_brick_wall
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_pillar_slab
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dunlending/lotr:dunlending_chestplate
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_pickaxe
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:silver_trimmed_dwarven_brick
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:gold_trimmed_blue_dwarven_boots
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_boots
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:cram
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_spear
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_pickaxe
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_leggings
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_brick_wall
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:cracked_arnor_brick_wall
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dunlending/lotr:dunlending_leggings
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_leggings
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:mossy_rohan_brick
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_brick
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_axe
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_brick_wall
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_brick
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_leggings
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt8
+[12二月2026 17:13:48.805] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_gate
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:alloy_forge/lotr:bronze_ingot_alloy
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_gate
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_cleaver
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_spear
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:mossy_dol_amroth_brick_stairs
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_dagger
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mossy_galadhrim_brick_wall
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_pillar
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mossy_galadhrim_brick_stairs
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_leggings
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:ranger_ithilien_helmet
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_rock_slab
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:snowy_angmar_brick_wall
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_helmet
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven_forge_alloy/lotr:dwarven_steel_ingot
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_chestplate
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_plating
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_brick
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_rock_slab
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_pillar_slab
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_crafting_table
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_brick_wall
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_pressure_plate
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_rock_button
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_brick_wall
+[12二月2026 17:13:48.806] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_brick
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_rock_stairs
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_pillar_slab
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_planks
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:mossy_high_elven_brick_stairs
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:mithril_trimmed_dwarven_helmet
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_torch_with_coal
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:perry
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt10
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_pickaxe
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_scimitar
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:elven_forge_alloy/lotr:elven_steel_ingot
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:mossy_dale_brick_wall
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_helmet
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:dwarven_shovel
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_chestplate
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_gate
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_shovel
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:mossy_dwarven_brick
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_pillar
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:orc_forge/lotr:charred_log_orc_forge
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:cracked_numenorean_brick_stairs
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_leggings
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_leggings
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_leggings
+[12二月2026 17:13:48.807] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:gold_trimmed_dwarven_chestplate
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:cracked_dale_brick_wall
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_dagger
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:carved_gondor_brick
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_leggings
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harnennor_helmet
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_brick_stairs
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:snow_brick_slab
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:cracked_dale_brick_slab
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_hoe
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_wood_slab
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:mossy_red_dorwinion_brick_slab
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_shovel
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_pillar_slab
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_bars
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:red_harad_brick
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:rusted_orc_plating
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:ranger_north_leggings
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_pickaxe
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:mossy_gondor_cobblebrick
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_boots
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:mossy_umbar_brick_wall
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_axe
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:cracked_wood_elven_brick_stairs
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:red_harad_pillar_slab
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_helmet
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_helmet
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_crafting_table
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_rock_wall
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:ranger_crafting_table
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:cactus_liqueur
+[12二月2026 17:13:48.808] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:green_hobbit_gate
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_helmet
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_leggings
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:silver_trimmed_dwarven_helmet
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_elven_leggings
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harnennor_shield
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mordor_brick_stairs
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_chestplate
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:melon_liqueur
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harnennor_chestplate
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mallorn_planks_from_mallorn_branch
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_brick_slab
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt3
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_numenorean/lotr:mossy_numenorean_brick_stairs
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:ranger/lotr:mossy_arnor_brick
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_brick_slab
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harnennor_boots
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:mossy_umbar_brick_slab
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_high_elven/lotr:high_elven_pillar_slab
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_orc/lotr:orc_plating_slab
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:red_harad_brick_stairs
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_brick
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:gondor_chestplate
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_chestplate
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:mossy_galadhrim_brick
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:uruk/lotr:uruk_hoe
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lossoth/lotr:leather_bundle
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:silver_trimmed_blue_dwarven_helmet
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:brewing/lotr:athelas_brew
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:lindon/lotr:lindon_sword
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dol_amroth/lotr:dol_amroth_boots
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rivendell/lotr:rivendell_pickaxe
+[12二月2026 17:13:48.809] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:blue_mountains/lotr:blue_dwarven_axe
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_brick
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_wood_bars
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_gate
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:umbar/lotr:umbar_brick_slab
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_marshal_boots
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:cracked_galadhrim_brick_stairs
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_harad/lotr:harad_gate
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:angmar/lotr:angmar_brick_slab
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:mossy_mordor_brick_slab
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:galadhrim/lotr:galadhrim_chestplate
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dwarven/lotr:gold_trimmed_dwarven_helmet
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:cracked_gondor_brick_wall
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:mossy_wood_elven_brick_stairs
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dorwinion/lotr:dorwinion_elven_chestplate
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:mordor/lotr:carved_mordor_brick
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:wood_elven/lotr:wood_elven_crafting_table
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:harad/lotr:harad_sword
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:dale/lotr:dale_paving_alt12
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:hobbit/lotr:shire_pine_door
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:any_dwarven/lotr:dwarven_pillar_slab
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:mossy_rohan_brick_wall
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:rohan/lotr:rohan_rock_button
+[12二月2026 17:13:48.810] [Render thread/WARN] [net.minecraft.client.util.ClientRecipeBook/]: Unknown recipe category: lotr:gondor/lotr:ranger_ithilien_leggings
+[12二月2026 17:13:49.026] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[12二月2026 17:13:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[12二月2026 17:13:49.043] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded clientside map settings from server - image lotr:map/middle_earth.png, 124 biome-color mappings (combined from 1 files), 59 waypoint regions encompassing 113 biomes, 198 waypoints, 57 roads, 91 labels
+[12二月2026 17:13:49.045] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded clientside faction settings from server - 27 factions in 3 regions, with 160 relations (combined from 1 relations lists)
+[12二月2026 17:13:49.045] [Render thread/INFO] [lotr.common.LOTRLog/]: lotr: Loaded clientside NPC entity settings from server - 50 entity type settings
+[12二月2026 17:13:49.049] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
+[12二月2026 17:13:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[12二月2026 17:13:49.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[12二月2026 17:13:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/lotr:middle_earth
+[12二月2026 17:14:48.385] [Render thread/ERROR] [lotr.common.LOTRLog/]: lotr: Found duplicate line in speechbank lotr:speech/hobbits/hobbit/zh_cn.json - line duplicated is '今儿天气真不错，#p！'. Speechbanks should not have duplicate lines!
+[12二月2026 17:15:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将Dev传送到 78240.5, 71.0, 42679.5]
+[12二月2026 17:15:08.082] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 已将Dev传送到 78240.5, 71.0, 42679.5
+[12二月2026 17:15:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将Dev传送到 81913.5, 63.0, 60760.5]
+[12二月2026 17:15:23.574] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 已将Dev传送到 81913.5, 63.0, 60760.5
+[12二月2026 17:15:23.644] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7 advancements
+[12二月2026 17:15:34.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将Dev传送到 84015.5, 73.0, 64997.5]
+[12二月2026 17:15:34.490] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 已将Dev传送到 84015.5, 73.0, 64997.5
+[12二月2026 17:16:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 将Dev的魔多结盟值设置为1000.0]
+[12二月2026 17:16:58.403] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 将Dev的魔多结盟值设置为1000.0
+[12二月2026 17:17:22.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 游戏规则keepInventory已被设为：true]
+[12二月2026 17:17:22.806] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 游戏规则keepInventory已被设为：true
+[12二月2026 17:17:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 你的游戏模式已被设置为生存模式 ]
+[12二月2026 17:17:28.200] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 你的游戏模式已被设置为生存模式 
+[12二月2026 17:17:40.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 精灵宝钻驱散了你邪恶的灵魂！
+[12二月2026 17:17:40.746] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 精灵宝钻驱散了你邪恶的灵魂！
+[12二月2026 17:17:41.960] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[12二月2026 17:17:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[12二月2026 17:17:42.039] [Render thread/WARN] [net.minecraft.client.network.play.ClientPlayNetHandler/]: Received passengers for unknown entity
+[12二月2026 17:17:42.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[12二月2026 17:17:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[12二月2026 17:17:42.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/lotr:middle_earth
+[12二月2026 17:17:50.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 你的游戏模式已被设置为创造模式 ]
+[12二月2026 17:17:50.415] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12二月2026 17:18:24.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 将Dev的魔多结盟值设置为0.0]
+[12二月2026 17:18:24.778] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 将Dev的魔多结盟值设置为0.0
+[12二月2026 17:18:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 将Dev的高等精灵结盟值设置为1000.0]
+[12二月2026 17:18:40.823] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 将Dev的高等精灵结盟值设置为1000.0
+[12二月2026 17:18:49.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 你的游戏模式已被设置为生存模式 ]
+[12二月2026 17:18:49.916] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 你的游戏模式已被设置为生存模式 
+[12二月2026 17:19:11.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 召唤了新的Meril,幽谷战士]
+[12二月2026 17:19:11.889] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 召唤了新的Meril,幽谷战士
+[12二月2026 17:19:14.073] [Render thread/WARN] [lotr.common.LOTRLog/]: lotr: Couldn't find translatable resource file lotr:speech/high_elves/rivendell/warrior for current language zh_cn - fallback to en_us
+[12二月2026 17:19:14.073] [Render thread/ERROR] [lotr.common.LOTRLog/]: lotr: Failed to load resource file lotr:speech/high_elves/rivendell/warrior/en_us.json!
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: java.io.FileNotFoundException: lotr:speech/high_elves/rivendell/warrior/en_us.json
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:63)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:61)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.text.TranslatableTextReloadListener.loadTextResource(TranslatableTextReloadListener.java:66)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.text.TranslatableTextReloadListener.lambda$getOrLoadTextResource$0(TranslatableTextReloadListener.java:46)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at java.util.HashMap.computeIfAbsent(HashMap.java:1128)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.text.TranslatableTextReloadListener.getOrLoadTextResource(TranslatableTextReloadListener.java:46)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.text.TranslatableTextReloadListener.getOrLoadTextResource(TranslatableTextReloadListener.java:40)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.speech.SpeechbankResourceManager.getSpeechbank(SpeechbankResourceManager.java:34)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.speech.NPCSpeechReceiver.getSpeechbank(NPCSpeechReceiver.java:80)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.speech.NPCSpeechReceiver.getSpeechbankLine(NPCSpeechReceiver.java:73)
+[12二月2026 17:19:14.073] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.speech.NPCSpeechReceiver.addSpeechMessage(NPCSpeechReceiver.java:57)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.speech.NPCSpeechReceiver.receiveSpeech(NPCSpeechReceiver.java:40)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.client.LOTRClientProxy.receiveSpeechbankPacket(LOTRClientProxy.java:303)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at lotr.common.network.SPacketSpeechbank.handle(SPacketSpeechbank.java:56)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at java.util.Optional.ifPresent(Optional.java:159)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[12二月2026 17:19:14.074] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[12二月2026 17:19:14.075] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[12二月2026 17:19:14.075] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[12二月2026 17:19:14.075] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at java.util.Optional.map(Optional.java:215)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.client.network.play.ClientPlayNetHandler.handleCustomPayload(ClientPlayNetHandler.java:1905)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.network.play.server.SCustomPayloadPlayPacket.handle(SCustomPayloadPlayPacket.java:59)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.network.play.server.SCustomPayloadPlayPacket.handle(SCustomPayloadPlayPacket.java:11)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.network.PacketThreadUtil.lambda$ensureRunningOnSameThread$0(PacketThreadUtil.java:19)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.doRunTask(ThreadTaskExecutor.java:136)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.doRunTask(RecursiveEventLoop.java:22)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.pollTask(ThreadTaskExecutor.java:109)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.runAllTasks(ThreadTaskExecutor.java:97)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:948)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:607)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraft.client.main.Main.main(Main.java:184)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.userdev.FMLUserdevClientLaunchProvider.lambda$launchService$0(FMLUserdevClientLaunchProvider.java:38)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+[12二月2026 17:19:14.076] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
+[12二月2026 17:19:14.077] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[12二月2026 17:19:14.077] [Render thread/INFO] [STDERR/]: [lotr.client.text.TranslatableTextReloadListener:loadTextResource:81]: 	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:94)
+[12二月2026 17:20:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 召唤了新的Mordor Warg]
+[12二月2026 17:20:01.094] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 召唤了新的Mordor Warg
+[12二月2026 17:20:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 召唤了新的Mordor Warg]
+[12二月2026 17:20:38.450] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 召唤了新的Mordor Warg
+[12二月2026 17:21:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 你的游戏模式已被设置为创造模式 ]
+[12二月2026 17:21:38.882] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12二月2026 17:21:41.192] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[12二月2026 17:21:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[12二月2026 17:21:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[12二月2026 17:21:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[12二月2026 17:21:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/lotr:middle_earth
+[12二月2026 17:21:41.647] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: 连接中止
+[12二月2026 17:21:41.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev退出了游戏
+[12二月2026 17:21:41.650] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[12二月2026 17:21:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12二月2026 17:21:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12二月2026 17:21:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12二月2026 17:21:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[12二月2026 17:21:41.797] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[12二月2026 17:21:41.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[12二月2026 17:21:41.798] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12二月2026 17:21:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[12二月2026 17:21:41.798] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12二月2026 17:21:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/lotr:middle_earth
+[12二月2026 17:21:42.337] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (middle_earth): All chunks are saved
+[12二月2026 17:21:42.354] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[12二月2026 17:21:42.366] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12二月2026 17:21:42.366] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12二月2026 17:21:42.375] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (middle_earth): All chunks are saved
+[12二月2026 17:21:44.045] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

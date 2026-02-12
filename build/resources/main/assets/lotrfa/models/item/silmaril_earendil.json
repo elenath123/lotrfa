@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "lotrfa:item/silmaril_earendil"
+  }
+}
